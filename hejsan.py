@@ -1,2 +1,2 @@
 print("LILLE SKUTT ")
-print("Ding dong")
+print("--HÄR HAR EN FÖRÄNDRING SKETT--")
