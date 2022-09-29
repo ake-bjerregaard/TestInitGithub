@@ -1,2 +1,2 @@
 print("LILLE SKUTT ")
-print("Ding dong")
+print("HÄr kommer det att bli konflikt")
