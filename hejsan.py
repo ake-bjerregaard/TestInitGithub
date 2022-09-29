@@ -1,2 +1,2 @@
-print("Bing bong ")
+print("LILLE SKUTT ")
 print("Ding dong")
