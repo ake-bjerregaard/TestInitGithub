@@ -1,2 +1,2 @@
 print("LILLE SKUTT ")
-print("--HÄR HAR EN FÖRÄNDRING SKETT--"
+print("--HÄR HAR EN FÖRÄNDRING SKETT--")
